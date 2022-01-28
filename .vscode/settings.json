@@ -5,6 +5,25 @@
 		"xlocale": "cpp",
 		"xstring": "cpp",
 		"vector": "cpp",
-		"iostream": "cpp"
+		"iostream": "cpp",
+		"algorithm": "cpp",
+		"array": "cpp",
+		"deque": "cpp",
+		"filesystem": "cpp",
+		"forward_list": "cpp",
+		"functional": "cpp",
+		"initializer_list": "cpp",
+		"iterator": "cpp",
+		"list": "cpp",
+		"map": "cpp",
+		"memory": "cpp",
+		"memory_resource": "cpp",
+		"set": "cpp",
+		"streambuf": "cpp",
+		"unordered_map": "cpp",
+		"unordered_set": "cpp",
+		"xhash": "cpp",
+		"xtree": "cpp",
+		"xutility": "cpp"
 	}
 }
