@@ -1,0 +1,1 @@
+{"name":"Local: count_and_say","url":"c:\\Users\\soura\\OneDrive\\Documents\\GitHub\\C_plus_plus\\String\\count_and_say.cpp","tests":[{"id":1643612644753,"input":"1\n2","output":"11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\soura\\OneDrive\\Documents\\GitHub\\C_plus_plus\\String\\count_and_say.cpp","group":"local","local":true}
