@@ -24,7 +24,16 @@
 		"unordered_set": "cpp",
 		"xhash": "cpp",
 		"xtree": "cpp",
-		"xutility": "cpp"
+		"xutility": "cpp",
+		"future": "cpp",
+		"atomic": "cpp",
+		"cstdlib": "cpp",
+		"locale": "cpp",
+		"xlocinfo": "cpp",
+		"xlocmon": "cpp",
+		"xlocnum": "cpp",
+		"xloctime": "cpp",
+		"xxatomic": "cpp"
 	},
 	"C_Cpp.errorSquiggles": "Disabled"
 }
