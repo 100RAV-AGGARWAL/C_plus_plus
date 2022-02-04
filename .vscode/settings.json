@@ -33,7 +33,8 @@
 		"xlocmon": "cpp",
 		"xlocnum": "cpp",
 		"xloctime": "cpp",
-		"xxatomic": "cpp"
+		"xxatomic": "cpp",
+		"random": "cpp"
 	},
 	"C_Cpp.errorSquiggles": "Disabled"
 }
